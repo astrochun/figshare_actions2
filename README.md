@@ -1,5 +1,7 @@
 # figshare_actions
 
+Additional content
+
 **Abstract**
 The dataset provided here contains the efforts of independent data aggregation,
 quality control, and visualization of the University of Arizona (UofA) COVID-19
